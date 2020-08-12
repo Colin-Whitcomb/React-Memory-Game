@@ -6,7 +6,7 @@
  Final Product Preview
  </p>
 <p align="center">
-    <img src="https://media.giphy.com/media/chcbsTArg4B6ZUSpoY/giphy.gif" width="350" />
+    <img src="https://media.giphy.com/media/chcbsTArg4B6ZUSpoY/giphy.gif" width="420" />
 </p>
   
 ## Summary & Process
