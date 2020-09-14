@@ -34,4 +34,4 @@ Deploying a React app to GitHub pages does require a few different steps. Be sur
 
 * [Colin Whitcomb](https://github.com/Colin-Whitcomb)
 * [LinkedIn](https://www.linkedin.com/in/colin-whitcomb-b808301a6/)
-* [Portfolio](https://pacific-sea-84511.herokuapp.com//)
+* [Portfolio](https://colin-whitcomb.github.io/React_Portfolio/)
